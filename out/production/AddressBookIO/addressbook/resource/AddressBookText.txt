@@ -1,1 +1,0 @@
-[ Contact [firstName=Dany, lastName=Targaryen, address=Mereen, city=Astapor, state=Braavos, zip=9876, phone=1234561242, email=dany_drogon@queen.com],  Contact [firstName=Jon, lastName=Snow, address=Winterfell, city=Wall, state=North, zip=1234, phone=9898986543, email=jon_targaryen@king.com]]
